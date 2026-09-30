@@ -79,8 +79,8 @@ export default function Footer() {
             <div className="space-y-3 text-xs text-[#ded9ce]">
               <p className="flex items-center gap-2.5">
                 <span className="material-symbols-outlined text-[#c68b29] text-base">call</span>
-                <a className="hover:text-[#c68b29] transition-colors" href="tel:+918860723545">
-                  +91 88607 23545 / +91 70008 83954
+                <a className="hover:text-[#c68b29] transition-colors" href="tel:+917000883954">
+                  +91 70008 83954 / +91 88607 23545
                 </a>
               </p>
               <p className="flex items-center gap-2.5">
@@ -91,7 +91,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-2.5">
                 <span className="material-symbols-outlined text-[#c68b29] text-base">location_on</span>
-                <span>APMC Market-I, Navi Mumbai, India</span>
+                <span>Nhava Sheva Port Depot, Navi Mumbai, India</span>
               </p>
             </div>
           </div>

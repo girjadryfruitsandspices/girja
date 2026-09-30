@@ -72,21 +72,21 @@ export default function ContactPage() {
                       <span className="material-symbols-outlined text-3xl">location_on</span>
                     </div>
                     <span className="text-[11px] uppercase tracking-widest text-stone-500 font-semibold">
-                      REGISTERED OFFICE
+                      PORT LOGISTICS &amp; EXPORT DEPOT
                     </span>
                   </div>
                   <div className="space-y-4 mb-10">
                     <h2 className="font-headline text-xl uppercase font-bold text-on-surface tracking-wide">
-                      OFFICE ADDRESS
+                      PORT DEPOT LOCATION
                     </h2>
                     <div className="text-sm sm:text-base text-on-surface-variant leading-relaxed">
-                      <p>APMC Market-I, Phase-2</p>
-                      <p>Navi Mumbai, Maharashtra</p>
-                      <p>India - 400703</p>
+                      <p className="font-semibold text-on-surface">Nhava Sheva Port CFS Export Depot</p>
+                      <p>JNPT Port Logistics Corridor, Navi Mumbai</p>
+                      <p>Maharashtra, India - 400707</p>
                     </div>
                   </div>
                   <div className="pt-4 border-t border-outline-soft flex items-center justify-between text-xs text-stone-500 font-medium">
-                    <span className="text-[11px]">Verified Physical Presence</span>
+                    <span className="text-[11px]">Direct Ocean Vessel &amp; Container Dispatch</span>
                     <span className="material-symbols-outlined text-gold-accent text-base">check_circle</span>
                   </div>
                 </div>
@@ -103,13 +103,13 @@ export default function ContactPage() {
                     </h2>
                     <div className="space-y-2 mb-8">
                       <div className="font-mono text-xl sm:text-2xl text-white font-bold tracking-tight">
-                        <a className="hover:text-[#c68b29] transition-colors" href="tel:+918860723545">
-                          +91 88607 23545
+                        <a className="hover:text-[#c68b29] transition-colors" href="tel:+917000883954">
+                          +91 70008 83954
                         </a>
                       </div>
                       <div className="font-mono text-xl sm:text-2xl text-[#ded9ce] font-bold tracking-tight">
-                        <a className="hover:text-[#c68b29] transition-colors" href="tel:+917000883954">
-                          +91 70008 83954
+                        <a className="hover:text-[#c68b29] transition-colors" href="tel:+918860723545">
+                          +91 88607 23545
                         </a>
                       </div>
                     </div>

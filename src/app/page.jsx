@@ -28,7 +28,7 @@ export default function HomePage() {
       badge: 'ORCHARD SELECTED • JUMBO DRY FRUITS & KERNELS',
       badgeColor: 'bg-primary-container',
       tag: 'Grade 180+ // Mamra Almonds • Sun-Cured Raisins • Walnut Kernels',
-      image: '/girjahome.jpg',
+      image: '/girjahome1.jpg',
     },
   ];
 

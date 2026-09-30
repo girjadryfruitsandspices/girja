@@ -12,6 +12,8 @@ export const metadata = {
     'Fennel seeds wholesale exporter India',
     'Whole Mace exporter India',
     'Star Anise wholesale exporter',
+    'Garam Masala wholesale exporter',
+    'Curry Masala powder export supplier',
     'Indian spices CIF Dubai USA Europe',
     'organic spices supplier India',
   ],

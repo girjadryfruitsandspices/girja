@@ -49,7 +49,7 @@ export default function SpicesPage() {
       badge: 'Whole Spice',
       sub: 'Fennel Seeds · Bold Green',
       desc: 'Sweet, intensely aromatic bold green seeds for gourmet spice blends, after-meal digestives, and confectionery.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Fennel%20Seeds',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Fennel%20Seeds',
       image: '/funnel.jpg',
     },
     {
@@ -61,7 +61,7 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Nutmeg Aril · Flower Blade',
       desc: 'Delicate, hand-harvested golden-red aril prized in gourmet gravies, aromatic rice dishes, and export seasoning blends.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Mace',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Mace',
       image: '/mace.jpg',
     },
     {
@@ -73,7 +73,7 @@ export default function SpicesPage() {
       badgeColor: 'text-tertiary',
       sub: 'Alleppey Green Extra Bold · 8mm Pods',
       desc: 'Fragrant, plump pods bursting with intense volatile oils for teas, gourmet desserts and fine dining.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Green%20Cardamom',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Green%20Cardamom',
       image: '/green.jpeg',
     },
     {
@@ -84,7 +84,7 @@ export default function SpicesPage() {
       badge: 'Whole Spice',
       sub: 'Large Black Cardamom · Smokey Pods',
       desc: 'Wood-fire smoke cured large pods essential to robust rice delicacies, rich gravies, and authentic whole spice seasonings.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Black%20Cardamom',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Black%20Cardamom',
       image: '/black.jpeg',
     },
     {
@@ -95,7 +95,7 @@ export default function SpicesPage() {
       badge: 'Whole Spice',
       sub: 'Whole Turmeric Finger · Double Polished',
       desc: 'Sun-dried, rock-hard rhizome fingers with radiant golden color, carefully graded for purity and high curcumin.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Turmeric%20Finger',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Turmeric%20Finger',
       image: '/finger.jpeg',
     },
     {
@@ -106,7 +106,7 @@ export default function SpicesPage() {
       badge: 'Milled Pure',
       sub: 'Turmeric Powder · Cold Ground',
       desc: 'Cold-pulverized deep ochre powder preserving natural oils, zero artificial starch or adulteration guaranteed.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Turmeric%20Powder',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Turmeric%20Powder',
       image: '/powder.jpeg',
     },
     {
@@ -119,7 +119,7 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Madhya Pradesh · High Pungency',
       desc: 'Extraordinary heat level with sharp biting spice, selected especially for extractors, snack seasoning, and industrial blends.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20MP%20Chilli%20Teja%20S17',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20MP%20Chilli%20Teja%20S17',
       image: '/mp chilli.jpeg',
     },
     {
@@ -131,7 +131,7 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Premium Trade Cut · Clean Stems',
       desc: 'Well-known trade grade valued across wholesale markets for vibrant brick-red color tone and steady heat value.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%202%20Mahi%20Chilli',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%202%20Mahi%20Chilli',
       image: '/mahi.jpg',
     },
     {
@@ -143,7 +143,7 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Red Chilli Powder · Pure Stemless',
       desc: 'Slow stone-ground powder blending Byadgi redness with Guntur pungency for rich restaurant gravy color.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Red%20Chilli%20Powder',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Red%20Chilli%20Powder',
       image: '/red.jpeg',
     },
     {
@@ -155,7 +155,7 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Whole Red Chilli · Stem / Stemless',
       desc: 'Yard-dried whole pods for tempering, pickle manufacturing, and custom spice grinding operations.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Whole%20Red%20Chilli',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Whole%20Red%20Chilli',
       image: '/whole red.jpeg',
     },
     {
@@ -167,7 +167,7 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Guntur S4 Benchmark',
       desc: "India's export benchmark grade. High oil content, thick skins, and unmatched sharp spice heat.",
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Sannam%20Chilli%20Andhra%20Pradesh',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Sannam%20Chilli%20Andhra%20Pradesh',
       image: '/sannam.jpg',
     },
     {
@@ -179,7 +179,7 @@ export default function SpicesPage() {
       badgeColor: 'text-tertiary',
       sub: 'Kaddi & Dabbi Grades',
       desc: 'World-famous crinkled skin chilli with low heat but saturated, radiant ruby-red natural color value.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Byadgi%20Chilli%20Karnataka',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Byadgi%20Chilli%20Karnataka',
       image: '/byadgi.jpg',
     },
     {
@@ -191,7 +191,7 @@ export default function SpicesPage() {
       badgeColor: 'text-primary',
       sub: 'Deep Scarlet · Mild Pungency',
       desc: 'Delightful mildness with incomparable deep carmine brilliance for tandoori dishes and butter gravies.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Kashmiri%20Chilli',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Kashmiri%20Chilli',
       image: '/kashmiri.jpg',
     },
     {
@@ -203,8 +203,44 @@ export default function SpicesPage() {
       badgeColor: 'text-secondary',
       sub: 'Trade Direct Consignments',
       desc: 'Wholesale volume chillies loaded directly from the Guntur market yards for export and spice millers.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Guntur%20Chilli',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Guntur%20Chilli',
       image: '/guntur.jpeg',
+    },
+    {
+      id: '15',
+      title: 'Chilli Flakes',
+      type: 'chilli',
+      origin: 'Coarse Crushed',
+      badge: 'Chilli Flakes',
+      badgeColor: 'text-secondary',
+      sub: 'Crushed Red Pepper · Pure Stemless',
+      desc: 'Coarsely crushed vibrant red chilli flakes with balanced seeds and fiery heat for pizzerias, continental seasoning, and spice blends.',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Chilli%20Flakes',
+      image: '/chilli flakes.jpg',
+    },
+    {
+      id: '16',
+      title: 'Garam Masala',
+      type: 'whole',
+      origin: 'Signature Blend',
+      badge: 'Spice Blend',
+      badgeColor: 'text-primary',
+      sub: 'Royal Garam Masala · Aromatic Roasted',
+      desc: 'Masterfully balanced blend of stone-ground whole spices, cloves, cardamoms, cinnamon and mace for rich curries and biryanis.',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Garam%20Masala',
+      image: '/garam.jpeg',
+    },
+    {
+      id: '17',
+      title: 'Curry Masala',
+      type: 'whole',
+      origin: 'Export Blend',
+      badge: 'Spice Blend',
+      badgeColor: 'text-secondary',
+      sub: 'All-Purpose Curry Powder · Micro-Milled',
+      desc: 'Golden aromatic curry blend crafted with roasted coriander, turmeric, cumin, fenugreek and warming spices for authentic stews and curries.',
+      whatsapp: 'https://wa.me/917000883954?text=Enquiry%20for%20Curry%20Masala',
+      image: '/curry.jpg',
     },
   ];
 
@@ -291,7 +327,7 @@ export default function SpicesPage() {
             </a>
             <a
               className="inline-flex items-center gap-2 bg-white hover:bg-surface-container border border-outline-soft text-on-surface text-sm font-semibold px-6 py-3 rounded-full shadow-xs transition-all"
-              href="https://wa.me/918860723545?text=Hello%2C%20I%20am%20interested%20in%20Girja%20Dry%20Fruits%20and%20Spices%20products"
+              href="https://wa.me/917000883954?text=Hello%2C%20I%20am%20interested%20in%20Girja%20Dry%20Fruits%20and%20Spices%20products"
               rel="noopener"
               target="_blank"
             >
@@ -469,7 +505,7 @@ export default function SpicesPage() {
             <div className="inline-flex p-1.5 rounded-full bg-surface-container border border-outline-soft shadow-xs" id="filter-container">
               {[
                 { label: 'All Products', value: 'all' },
-                { label: 'Whole Spices', value: 'whole' },
+                { label: 'Whole Spices & Blends', value: 'whole' },
                 { label: 'Chilli Collection', value: 'chilli' },
                 { label: 'Regional Chillies', value: 'regional' },
               ].map((tab) => (
@@ -586,7 +622,7 @@ export default function SpicesPage() {
               </div>
               <a
                 className="inline-flex items-center gap-2 bg-primary hover:bg-[#6b4600] text-white text-xs uppercase tracking-wider font-semibold px-6 py-3.5 rounded-full transition-all shadow-sm flex-shrink-0"
-                href="https://wa.me/918860723545?text=I%20am%20looking%20for%20a%20specific%20variety%20or%20grade%20not%20listed"
+                href="https://wa.me/917000883954?text=I%20am%20looking%20for%20a%20specific%20variety%20or%20grade%20not%20listed"
                 rel="noopener"
                 target="_blank"
               >
@@ -643,7 +679,7 @@ export default function SpicesPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Lakadong%20Turmeric"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Lakadong%20Turmeric"
                   rel="noopener"
                   target="_blank"
                 >
@@ -681,7 +717,7 @@ export default function SpicesPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Alleppey%20Turmeric"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Alleppey%20Turmeric"
                   rel="noopener"
                   target="_blank"
                 >
@@ -719,7 +755,7 @@ export default function SpicesPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Salem%20Turmeric"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Salem%20Turmeric"
                   rel="noopener"
                   target="_blank"
                 >
@@ -757,7 +793,7 @@ export default function SpicesPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Erode%20Turmeric"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Erode%20Turmeric"
                   rel="noopener"
                   target="_blank"
                 >
@@ -795,7 +831,7 @@ export default function SpicesPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Waigaon%20Turmeric"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Waigaon%20Turmeric"
                   rel="noopener"
                   target="_blank"
                 >
@@ -833,7 +869,7 @@ export default function SpicesPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Rajapuri%20Turmeric"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Rajapuri%20Turmeric"
                   rel="noopener"
                   target="_blank"
                 >
@@ -872,7 +908,7 @@ export default function SpicesPage() {
                 <div className="pt-4 mt-2">
                   <a
                     className="inline-flex items-center gap-2 py-2.5 px-6 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                    href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Aromatic%20Turmeric"
+                    href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Aromatic%20Turmeric"
                     rel="noopener"
                     target="_blank"
                   >
@@ -930,7 +966,7 @@ export default function SpicesPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Kashmiri%20Chilli"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Kashmiri%20Chilli"
                 rel="noopener"
                 target="_blank"
               >
@@ -968,7 +1004,7 @@ export default function SpicesPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Guntur%20Chilli%20S4"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Guntur%20Chilli%20S4"
                 rel="noopener"
                 target="_blank"
               >
@@ -1006,7 +1042,7 @@ export default function SpicesPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Byadgi%20Chilli"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Byadgi%20Chilli"
                 rel="noopener"
                 target="_blank"
               >
@@ -1044,7 +1080,7 @@ export default function SpicesPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Teja%20Chilli%20S17"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Teja%20Chilli%20S17"
                 rel="noopener"
                 target="_blank"
               >
@@ -1082,7 +1118,7 @@ export default function SpicesPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Methania%20Chilli"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Methania%20Chilli"
                 rel="noopener"
                 target="_blank"
               >

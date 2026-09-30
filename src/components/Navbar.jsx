@@ -94,23 +94,16 @@ export default function Navbar({ onRequestQuote }) {
 
           {/* Action Buttons */}
           <div className="flex items-center gap-3">
-            {/* Call Now Button */}
+            {/* Call / WhatsApp Now Button */}
             <a
-              className="hidden sm:inline-flex items-center gap-1.5 text-xs font-semibold text-on-surface-variant hover:text-primary transition-colors px-3 py-2 border border-outline-soft rounded-full bg-white/70 shadow-2xs"
-              href="tel:+918860723545"
+              className="inline-flex items-center gap-1.5 text-xs font-semibold text-white bg-primary hover:bg-[#6b4600] transition-colors px-4 py-2 rounded-full shadow-xs"
+              href="https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits%20%26%20Spices%2C%20I%20have%20an%20export%20inquiry"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              <span className="material-symbols-outlined text-sm text-primary">call</span>
-              <span>Call Now</span>
+              <span className="material-symbols-outlined text-sm text-white">chat</span>
+              <span>WhatsApp Inquiry</span>
             </a>
-
-            {/* Request Quote Button */}
-            <button
-              onClick={handleQuoteClick}
-              className="hidden sm:inline-flex items-center gap-2 bg-secondary hover:bg-secondary-dark text-white text-xs uppercase tracking-wider font-semibold px-5 py-2.5 rounded-full transition-all duration-200 shadow-sm hover:shadow cursor-pointer"
-            >
-              <span>Request Quote</span>
-              <span className="material-symbols-outlined text-sm">arrow_forward</span>
-            </button>
 
             {/* Mobile Hamburger Button */}
             <button
@@ -160,21 +153,24 @@ export default function Navbar({ onRequestQuote }) {
 
             {/* Mobile Action Buttons */}
             <div className="pt-3 border-t border-outline-soft flex flex-col gap-3">
-              <button
-                onClick={handleQuoteClick}
-                className="w-full flex items-center justify-center gap-2 bg-secondary hover:bg-secondary-dark text-white text-xs uppercase tracking-wider font-semibold py-3 px-5 rounded-full transition-all shadow-sm cursor-pointer"
+              <a
+                href="https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits%20%26%20Spices%2C%20I%20have%20an%20export%20inquiry"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setMobileMenuOpen(false)}
+                className="w-full flex items-center justify-center gap-2 bg-primary hover:bg-[#6b4600] text-white text-xs uppercase tracking-wider font-semibold py-3 px-5 rounded-full transition-all shadow-sm cursor-pointer"
               >
-                <span>Request Trade Quote</span>
-                <span className="material-symbols-outlined text-sm">arrow_forward</span>
-              </button>
+                <span className="material-symbols-outlined text-sm">chat</span>
+                <span>WhatsApp Instant Inquiry</span>
+              </a>
 
               <div className="flex items-center justify-around pt-2 text-xs text-on-surface-variant font-medium">
                 <a
                   className="flex items-center gap-1.5 px-3 py-2 border border-outline-soft rounded-full bg-white/70 hover:text-primary"
-                  href="tel:+918860723545"
+                  href="tel:+917000883954"
                 >
                   <span className="material-symbols-outlined text-sm text-primary">call</span>
-                  <span>Call +91 88607 23545</span>
+                  <span>Call +91 70008 83954</span>
                 </a>
                 <a
                   className="flex items-center gap-1.5 px-3 py-2 border border-outline-soft rounded-full bg-white/70 hover:text-primary"

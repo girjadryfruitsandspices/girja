@@ -50,7 +50,7 @@ export default function DryFruitsPage() {
       sub: 'Premium daily raw snacking & morning soak',
       desc: 'Boasts up to 50% natural unextracted oil and Vitamin E for memory, skin health, and daily vitality.',
       uses: 'Morning soak on empty stomach for memory and cognitive stamina; nutrition support for pregnant mothers and almond milk tonics.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Mamra%20Almonds',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Mamra%20Almonds',
       image: '/mamra.jpg',
     },
     {
@@ -62,7 +62,7 @@ export default function DryFruitsPage() {
       sub: 'Small Kernel Almonds · Herbal remedies & baking',
       desc: 'Rich in natural Omega-3s and antioxidants with a bittersweet profile for heart health and stamina.',
       uses: 'Almond health pastes, traditional wellness remedies, high-energy nutrition, cardiovascular protection and diabetic health diets.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Gurbandi%20Almonds',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Gurbandi%20Almonds',
       image: '/gurbandi.jpg',
     },
     {
@@ -75,7 +75,7 @@ export default function DryFruitsPage() {
       sub: 'Everyday wellness, desserts & family diet',
       desc: '100% unbleached sweet almonds rich in protein and fiber for everyday family nutrition.',
       uses: 'Everyday family snacking, dessert puddings & rice dish garnishing, almond flour baking and festive platters.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Kashmiri%20Almonds',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Kashmiri%20Almonds',
       image: '/kashmiri badam.jpg',
     },
     {
@@ -89,7 +89,7 @@ export default function DryFruitsPage() {
       sub: 'Midday energy snacking & trail mixes',
       desc: 'Naturally sweet, slender Afghan raisins rich in potassium and fiber for digestion and stamina.',
       uses: 'Midday energy snacking, school trail mixes, gourmet dry fruit platters and athlete stamina snacks.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Green%20Long%20Raisins',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Green%20Long%20Raisins',
       image: '/hari.jpg',
     },
     {
@@ -103,7 +103,7 @@ export default function DryFruitsPage() {
       sub: 'Soaked morning tonics & skin wellness',
       desc: 'Iron-rich seedless black raisins that support hemoglobin, blood purification, and skin wellness.',
       uses: 'Overnight water-soak for iron and hemoglobin boost, blood purification, natural skin glow and hair health.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Black%20Seedless%20Raisins',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Black%20Seedless%20Raisins',
       image: '/kali kishmish.jpg',
     },
     {
@@ -116,7 +116,7 @@ export default function DryFruitsPage() {
       sub: 'Traditional desserts, puddings & bakery',
       desc: 'Sun-cured plump golden raisins ideal for traditional sweets, baking, and healthy daily snacking.',
       uses: 'Traditional desserts, puddings, festive sweets, rice pilafs, Christmas fruitcakes, bakery muffins and confectionery.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Golden%20Round%20Raisins',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Golden%20Round%20Raisins',
       image: '/golden kishmish.jpg',
     },
     {
@@ -129,7 +129,7 @@ export default function DryFruitsPage() {
       sub: 'Seeded large raisins · Warm milk tonics',
       desc: 'Sun-dried seeded large grape raisins with soothing cooling properties for digestion and vitality.',
       uses: 'Boiled in warm milk with crushed black pepper for chronic cough, throat soothing, acidity relief and digestive wellness.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Jumbo%20Seeded%20Raisins',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Jumbo%20Seeded%20Raisins',
       image: '/munaka.jpg',
     },
     {
@@ -142,7 +142,7 @@ export default function DryFruitsPage() {
       sub: 'Seedless golden-amber · Bakery & gourmet snacks',
       desc: 'Juicy, naturally sweet seedless sultanas with tender skin, ideal for confectionery, baking, and gourmet cooking.',
       uses: 'Artisanal breads, fruit scones, puddings, sweet and savory recipes, fruit chutneys, and breakfast cereals.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Sultanas',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Sultanas',
       image: '/sultanas.jpg',
     },
     {
@@ -155,7 +155,7 @@ export default function DryFruitsPage() {
       sub: 'Intense tangy-sweet · Artisanal bakery & tonics',
       desc: 'Tiny, deeply flavorful dried black currants offering rich antioxidants and an intense sweet-tart flavor profile.',
       uses: 'Artisan sourdough baking, fruit buns, dark chocolate bark, antioxidant smoothie bowls and gourmet dressings.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Black%20Currants',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Black%20Currants',
       image: '/currants.jpg',
     },
     {
@@ -168,7 +168,7 @@ export default function DryFruitsPage() {
       sub: 'Plump crimson raisins · Energy mixes & salads',
       desc: 'Sun-cured large red flame raisins with rich natural sweetness, iron, and a distinct chewy texture.',
       uses: 'Morning muesli, yogurt parfaits, Mediterranean grain salads, energy trail bars and charcuterie platters.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Red%20Raisins',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Red%20Raisins',
       image: '/red raisins.jpg',
     },
     {
@@ -180,7 +180,7 @@ export default function DryFruitsPage() {
       sub: 'Walnut Halves · Brain health & luxury gifting',
       desc: 'Extra light, crisp halves packed with brain-boosting ALA Omega-3s and antioxidants.',
       uses: 'Daily brain vitality (Plant Omega-3 ALA), cardiovascular wellness, keto snacking, gourmet salads and luxury export gifting.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Kashmiri%20Walnut%20Kernels',
+      whatsapp: 'https://wa.me/917000883954?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Kashmiri%20Walnut%20Kernels',
       image: '/walnut.jpg',
     },
   ];
@@ -268,7 +268,7 @@ export default function DryFruitsPage() {
             </a>
             <a
               className="inline-flex items-center gap-2 bg-white hover:bg-surface-container border border-outline-soft text-on-surface text-sm font-semibold px-6 py-3 rounded-full shadow-xs transition-all"
-              href="https://wa.me/918860723545?text=Hello%2C%20I%20am%20interested%20in%20Girja%20Dry%20Fruits%20catalog"
+              href="https://wa.me/917000883954?text=Hello%2C%20I%20am%20interested%20in%20Girja%20Dry%20Fruits%20catalog"
               rel="noopener"
               target="_blank"
             >
@@ -570,7 +570,7 @@ export default function DryFruitsPage() {
               </div>
               <a
                 className="inline-flex items-center gap-2 bg-primary hover:bg-[#6b4600] text-white text-xs uppercase tracking-wider font-semibold px-6 py-3.5 rounded-full transition-all shadow-sm flex-shrink-0"
-                href="https://wa.me/918860723545?text=I%20am%20looking%20for%20a%20specific%20dry%20fruit%20variety%20or%20grade"
+                href="https://wa.me/917000883954?text=I%20am%20looking%20for%20a%20specific%20dry%20fruit%20variety%20or%20grade"
                 rel="noopener"
                 target="_blank"
               >
@@ -627,7 +627,7 @@ export default function DryFruitsPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Mamra%20Almonds"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Mamra%20Almonds"
                   rel="noopener"
                   target="_blank"
                 >
@@ -665,7 +665,7 @@ export default function DryFruitsPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Gurbandi%20Almonds"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Gurbandi%20Almonds"
                   rel="noopener"
                   target="_blank"
                 >
@@ -703,7 +703,7 @@ export default function DryFruitsPage() {
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Kashmiri%20Almonds"
+                  href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Kashmiri%20Almonds"
                   rel="noopener"
                   target="_blank"
                 >
@@ -760,7 +760,7 @@ export default function DryFruitsPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Green%20Long%20Raisins"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Green%20Long%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
@@ -798,7 +798,7 @@ export default function DryFruitsPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Black%20Seedless%20Raisins"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Black%20Seedless%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
@@ -836,7 +836,7 @@ export default function DryFruitsPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Golden%20Round%20Raisins"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Golden%20Round%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
@@ -874,7 +874,7 @@ export default function DryFruitsPage() {
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Jumbo%20Seeded%20Raisins"
+                href="https://wa.me/917000883954?text=Bulk%20Enquiry%20for%20Jumbo%20Seeded%20Raisins"
                 rel="noopener"
                 target="_blank"
               >

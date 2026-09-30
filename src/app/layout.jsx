@@ -30,6 +30,8 @@ export const metadata = {
     'Fennel seeds exporter India',
     'Mace supplier Kerala',
     'Star anise exporter',
+    'Garam Masala bulk exporter',
+    'Curry Masala wholesale supplier',
     'single origin pure Indian spices',
     'organic spices exporter India',
     // Global Dry Fruits Export
@@ -120,14 +122,14 @@ export default function RootLayout({ children }) {
     image: 'https://girjadryfruitsandspices.com/bannerH.jpg',
     description:
       'Leading Indian exporter and wholesale supplier of authentic single-origin spices, Guntur & Byadgi red chillies, Salem turmeric, Tellicherry black pepper, Royal Mamra almonds, and Kashmiri walnuts.',
-    telephone: '+91-8860723545',
+    telephone: '+91-7000883954',
     email: 'Shahi.pradeep5@gmail.com',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: 'APMC Market-I, Phase-2',
+      streetAddress: 'Nhava Sheva Port CFS Export Depot, JNPT Logistics Corridor',
       addressLocality: 'Navi Mumbai',
       addressRegion: 'Maharashtra',
-      postalCode: '400703',
+      postalCode: '400707',
       addressCountry: 'IN',
     },
     geo: {
@@ -169,7 +171,7 @@ export default function RootLayout({ children }) {
     contactPoint: [
       {
         '@type': 'ContactPoint',
-        telephone: '+91-8860723545',
+        telephone: '+91-7000883954',
         contactType: 'international export sales desk',
         areaServed: ['AE', 'US', 'GB', 'EU', 'SA', 'AU', 'IN', 'SG', 'CA'],
         availableLanguage: ['English', 'Hindi'],
