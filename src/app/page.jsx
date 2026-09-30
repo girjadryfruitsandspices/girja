@@ -27,7 +27,7 @@ export default function HomePage() {
       title: 'Royal Dry Fruits & Nuts',
       badge: 'ORCHARD SELECTED • JUMBO DRY FRUITS & KERNELS',
       badgeColor: 'bg-primary-container',
-      tag: 'Grade 180+ // Mamra • Kishmish • Walnut Kernels',
+      tag: 'Grade 180+ // Mamra Almonds • Sun-Cured Raisins • Walnut Kernels',
       image: '/girjahome.jpg',
     },
   ];
@@ -81,20 +81,20 @@ export default function HomePage() {
               {/* Subtitle badge */}
               <div className="inline-flex items-center gap-space-xs px-space-md py-1 rounded-full bg-surface-container-high text-primary font-label-sm text-label-sm uppercase tracking-widest shadow-sm mb-space-md">
                 <span className="inline-block w-1.5 h-1.5 rounded-full bg-primary-container"></span>
-                PURE &amp; TRUSTED • MEVA AUR MASALE
+                PURE &amp; TRUSTED • DRY FRUITS &amp; SPICES
               </div>
 
               {/* Main Title */}
               <h1 className="font-display-lg text-display-lg text-on-surface max-w-4xl tracking-tight leading-tight">
                 Direct Harvest Spices &amp; Royal Dry Fruits
                 <span className="block font-headline-lg text-headline-lg font-normal italic text-primary-container mt-1">
-                  Handpicked &amp; Honestly Graded
+                  Pure Harvest &amp; Honestly Graded
                 </span>
               </h1>
 
               {/* Tagline */}
               <p className="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mt-space-md leading-relaxed">
-                Girja brings farm-fresh authentic Indian spices and premier royal dry fruits directly from regional mandis and orchards across India and beyond — graded for export purity, fair weight, and unmatched aroma.
+                Girja brings farm-fresh authentic Indian spices and premier royal dry fruits directly from regional agricultural estates and origin orchards across India and beyond — graded for export purity, fair weight, and unmatched aroma.
               </p>
 
               {/* Quick Action Buttons */}
@@ -192,7 +192,7 @@ export default function HomePage() {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-space-sm mt-space-md">
                   <div className="flex items-center justify-center gap-2 p-space-sm rounded bg-surface-container-low text-on-surface-variant text-center shadow-sm">
                     <span className="material-symbols-outlined text-primary text-[18px]">agriculture</span>
-                    <span className="font-label-sm text-label-sm font-medium tracking-wide">100% Direct Mandi Sourced</span>
+                    <span className="font-label-sm text-label-sm font-medium tracking-wide">100% Direct Origin Sourced</span>
                   </div>
                   <div className="flex items-center justify-center gap-2 p-space-sm rounded bg-surface-container-low text-on-surface-variant text-center shadow-sm">
                     <span className="material-symbols-outlined text-tertiary text-[18px]">verified</span>
@@ -204,7 +204,7 @@ export default function HomePage() {
                   </div>
                   <div className="flex items-center justify-center gap-2 p-space-sm rounded bg-surface-container-low text-on-surface-variant text-center shadow-sm">
                     <span className="material-symbols-outlined text-primary-container text-[18px]">public</span>
-                    <span className="font-label-sm text-label-sm font-medium tracking-wide">Pan-India &amp; Global Supply</span>
+                    <span className="font-label-sm text-label-sm font-medium tracking-wide">Export Globally</span>
                   </div>
                 </div>
               </div>
@@ -246,7 +246,7 @@ export default function HomePage() {
                     </div>
                     <h3 className="font-headline-sm text-headline-sm text-on-surface tracking-tight">Origin Direct</h3>
                     <p className="font-body-sm text-body-sm text-on-surface-variant mt-space-sm leading-relaxed">
-                      Procured directly from premier APMC mandis and orchards across Kashmir, Guntur, and Sangli.
+                      Procured directly from premier spice estates and orchards across Kashmir, Guntur, and Sangli.
                     </p>
                   </div>
                   <div className="mt-space-lg pt-space-xs flex items-center gap-1.5 text-secondary">
@@ -460,11 +460,11 @@ export default function HomePage() {
                     <span className="font-headline-md text-headline-md font-serif text-secondary select-none block mb-space-sm">ψ</span>
                     <h3 className="font-headline-sm text-headline-sm text-on-surface tracking-tight">Sourced at the Root</h3>
                     <p className="font-body-sm text-body-sm text-on-surface-variant mt-space-sm leading-relaxed">
-                      Direct grower and APMC mandi contracts — eliminating intermediary guesswork.
+                      Direct grower and origin farm contracts — eliminating intermediary guesswork.
                     </p>
                   </div>
                   <div className="mt-space-lg pt-space-xs border-t border-surface-container">
-                    <span className="font-label-sm text-label-sm text-outline uppercase tracking-wider">Direct Mandi Origin</span>
+                    <span className="font-label-sm text-label-sm text-outline uppercase tracking-wider">Direct Farm Origin</span>
                   </div>
                 </div>
 

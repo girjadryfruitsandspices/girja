@@ -47,9 +47,9 @@ export default function SpicesPage() {
       type: 'whole',
       origin: 'Gujarat',
       badge: 'Whole Spice',
-      sub: 'Saunf · Variyali',
-      desc: 'Sweet, intensely aromatic bold green seeds for masala blends, digestive mukhwas, and confectionery.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Fennel%20Seeds%20(Saunf)',
+      sub: 'Fennel Seeds · Bold Green',
+      desc: 'Sweet, intensely aromatic bold green seeds for gourmet spice blends, after-meal digestives, and confectionery.',
+      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Fennel%20Seeds',
       image: '/funnel.jpg',
     },
     {
@@ -59,9 +59,9 @@ export default function SpicesPage() {
       origin: 'Kerala',
       badge: 'Whole Spice',
       badgeColor: 'text-secondary',
-      sub: 'Javitri · Flower Blade',
-      desc: 'Delicate, hand-harvested golden-red aril prized in royal Mughlai gravies, biryani aromatics, and garam masala.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Mace%20(Javitri)',
+      sub: 'Nutmeg Aril · Flower Blade',
+      desc: 'Delicate, hand-harvested golden-red aril prized in gourmet gravies, aromatic rice dishes, and export seasoning blends.',
+      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Mace',
       image: '/mace.jpg',
     },
     {
@@ -71,9 +71,9 @@ export default function SpicesPage() {
       origin: 'Idukki · 8mm+',
       badge: 'Whole Spice',
       badgeColor: 'text-tertiary',
-      sub: 'Choti Elaichi · Alleppey Green Extra Bold',
-      desc: 'Fragrant, plump pods bursting with intense volatile oils for chai, gourmet desserts and royal dining.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Green%20Cardamom%20(Choti%20Elaichi)',
+      sub: 'Alleppey Green Extra Bold · 8mm Pods',
+      desc: 'Fragrant, plump pods bursting with intense volatile oils for teas, gourmet desserts and fine dining.',
+      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Green%20Cardamom',
       image: '/green.jpeg',
     },
     {
@@ -82,9 +82,9 @@ export default function SpicesPage() {
       type: 'whole',
       origin: 'Sikkim',
       badge: 'Whole Spice',
-      sub: 'Badi Elaichi · Smokey Pods',
-      desc: 'Wood-fire smoke cured large pods essential to robust biryanis, gravies, and authentic whole garam masalas.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Black%20Cardamom%20(Badi%20Elaichi)',
+      sub: 'Large Black Cardamom · Smokey Pods',
+      desc: 'Wood-fire smoke cured large pods essential to robust rice delicacies, rich gravies, and authentic whole spice seasonings.',
+      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Black%20Cardamom',
       image: '/black.jpeg',
     },
     {
@@ -93,9 +93,9 @@ export default function SpicesPage() {
       type: 'whole',
       origin: 'Sangli & Erode',
       badge: 'Whole Spice',
-      sub: 'Haldi Sabut · Double Polished',
+      sub: 'Whole Turmeric Finger · Double Polished',
       desc: 'Sun-dried, rock-hard rhizome fingers with radiant golden color, carefully graded for purity and high curcumin.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Turmeric%20Finger%20(Haldi%20Sabut)',
+      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Turmeric%20Finger',
       image: '/finger.jpeg',
     },
     {
@@ -104,9 +104,9 @@ export default function SpicesPage() {
       type: 'whole',
       origin: 'Milled Fine',
       badge: 'Milled Pure',
-      sub: 'Haldi Powder · Cold Ground',
+      sub: 'Turmeric Powder · Cold Ground',
       desc: 'Cold-pulverized deep ochre powder preserving natural oils, zero artificial starch or adulteration guaranteed.',
-      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Turmeric%20Powder%20(Haldi%20Powder)',
+      whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Turmeric%20Powder',
       image: '/powder.jpeg',
     },
     {
@@ -118,7 +118,7 @@ export default function SpicesPage() {
       badge: 'Chilli',
       badgeColor: 'text-secondary',
       sub: 'Madhya Pradesh · High Pungency',
-      desc: 'Extraordinary heat level with sharp biting spice, selected especially for extractors, namkeen, and industrial blends.',
+      desc: 'Extraordinary heat level with sharp biting spice, selected especially for extractors, snack seasoning, and industrial blends.',
       whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20MP%20Chilli%20Teja%20S17',
       image: '/mp chilli.jpeg',
     },
@@ -130,7 +130,7 @@ export default function SpicesPage() {
       badge: 'Chilli',
       badgeColor: 'text-secondary',
       sub: 'Premium Trade Cut · Clean Stems',
-      desc: 'Well-known trade grade valued across wholesale mandis for vibrant brick-red color tone and steady heat value.',
+      desc: 'Well-known trade grade valued across wholesale markets for vibrant brick-red color tone and steady heat value.',
       whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%202%20Mahi%20Chilli',
       image: '/mahi.jpg',
     },
@@ -141,7 +141,7 @@ export default function SpicesPage() {
       origin: 'Stone Ground',
       badge: 'Chilli Powder',
       badgeColor: 'text-secondary',
-      sub: 'Lal Mirch Powder · Pure Stemless',
+      sub: 'Red Chilli Powder · Pure Stemless',
       desc: 'Slow stone-ground powder blending Byadgi redness with Guntur pungency for rich restaurant gravy color.',
       whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Red%20Chilli%20Powder',
       image: '/red.jpeg',
@@ -153,8 +153,8 @@ export default function SpicesPage() {
       origin: 'Sun Cured',
       badge: 'Chilli',
       badgeColor: 'text-secondary',
-      sub: 'Sabut Lal Mirch · Stem / Stemless',
-      desc: 'Yard-dried whole pods for tadka seasoning, pickle manufacturing, and custom spice grinding operations.',
+      sub: 'Whole Red Chilli · Stem / Stemless',
+      desc: 'Yard-dried whole pods for tempering, pickle manufacturing, and custom spice grinding operations.',
       whatsapp: 'https://wa.me/918860723545?text=Enquiry%20for%20Whole%20Red%20Chilli',
       image: '/whole red.jpeg',
     },
@@ -198,7 +198,7 @@ export default function SpicesPage() {
       id: '14',
       title: 'Guntur Chilli',
       type: 'regional',
-      origin: 'AP Mandi',
+      origin: 'Andhra Pradesh Origin',
       badge: 'Regional',
       badgeColor: 'text-secondary',
       sub: 'Trade Direct Consignments',
@@ -267,7 +267,7 @@ export default function SpicesPage() {
       </div>
 
       {/* Header Navigation */}
-      <Navbar onRequestQuote={() => openModal('Spices Portfolio', 'Single-Origin Mandis', 'Export Grade')} />
+      <Navbar onRequestQuote={() => openModal('Spices Portfolio', 'Single-Origin Estates', 'Export Grade')} />
 
       <main className="w-full relative">
         {/* Hero Section */}
@@ -275,13 +275,13 @@ export default function SpicesPage() {
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-surface-container border border-outline-soft mb-6">
             <span className="material-symbols-outlined text-xs text-primary">psychiatry</span>
             <span className="w-1.5 h-1.5 rounded-full bg-primary-container"></span>
-            <span className="text-xs uppercase tracking-widest font-semibold text-primary">Pure &amp; Trusted • Meva Aur Masale</span>
+            <span className="text-xs uppercase tracking-widest font-semibold text-primary">Pure &amp; Trusted • Dry Fruits &amp; Spices</span>
           </div>
           <h1 className="font-headline text-4xl sm:text-5xl lg:text-6xl font-bold text-on-surface tracking-tight leading-tight sm:leading-none mb-6">
             Spices, <span className="italic font-normal text-secondary">Aromatic</span><br className="hidden sm:inline" /> &amp; Fiery Chillies
           </h1>
           <p className="text-base sm:text-lg text-on-surface-variant max-w-3xl mx-auto leading-relaxed mb-8 font-normal">
-            Girja and Spices brings whole spices, aromatic dry fruits and chilli varieties from across India — graded by hand, sold on trust, delivered fresh to your kitchen or your business.
+            Girja Dry Fruits &amp; Spices brings whole spices, aromatic herbs and chilli varieties from across India — graded by hand, sold on trust, delivered fresh to your kitchen or your business.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 mb-10">
@@ -291,7 +291,7 @@ export default function SpicesPage() {
             </a>
             <a
               className="inline-flex items-center gap-2 bg-white hover:bg-surface-container border border-outline-soft text-on-surface text-sm font-semibold px-6 py-3 rounded-full shadow-xs transition-all"
-              href="https://wa.me/918860723545?text=Namaste%2C%20I%20am%20interested%20in%20Girja%20Meva%20aur%20Masale%20products"
+              href="https://wa.me/918860723545?text=Hello%2C%20I%20am%20interested%20in%20Girja%20Dry%20Fruits%20and%20Spices%20products"
               rel="noopener"
               target="_blank"
             >
@@ -349,13 +349,13 @@ export default function SpicesPage() {
                 Girja Dry Fruits and Spices is built on a simple promise — spices and dry fruits the way they should be: pure, well-graded and honestly sourced. From fragrant green cardamom to fiery Guntur and Byadgi chillies, every product is chosen for colour, aroma and quality before it reaches you.
               </p>
               <p className="text-on-surface-variant text-sm sm:text-base leading-relaxed">
-                Whether you're a household stocking the month's masale or a business ordering in bulk, we supply retail packs and wholesale quantities with the same care — sourced directly and delivered across India.
+                Whether you're a household stocking the month's spices or a business ordering in bulk, we supply retail packs and wholesale quantities with the same care — sourced directly and delivered across India and worldwide.
               </p>
 
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-4">
                 <div className="p-3.5 rounded-xl bg-white border border-outline-soft shadow-xs text-center">
                   <span className="material-symbols-outlined text-primary text-2xl block mb-1">agriculture</span>
-                  <span className="text-xs font-semibold text-on-surface block">Farm &amp; Mandi Sourced</span>
+                  <span className="text-xs font-semibold text-on-surface block">Farm &amp; Origin Sourced</span>
                 </div>
                 <div className="p-3.5 rounded-xl bg-white border border-outline-soft shadow-xs text-center">
                   <span className="material-symbols-outlined text-secondary text-2xl block mb-1">front_hand</span>
@@ -597,19 +597,19 @@ export default function SpicesPage() {
           </div> */}
         </section>
 
-        {/* Haldi Ki Kisme Section */}
+        {/* Turmeric Guide Section */}
         <section className="bg-surface-container-low/60 py-16 sm:py-20 border-t border-outline-soft/60" id="turmeric-guide">
           <div className="max-w-7xl mx-auto px-6 sm:px-8">
             <div className="text-center max-w-3xl mx-auto mb-14">
               <div className="inline-flex items-center gap-2 text-xs uppercase tracking-widest font-semibold text-primary mb-2">
                 <span className="material-symbols-outlined text-sm">spa</span>
-                <span>Haldi Ki Kisme</span>
+                <span>Types of Turmeric</span>
               </div>
               <h2 className="font-headline text-3xl sm:text-4xl lg:text-5xl font-bold text-on-surface mb-4">
                 Types of Turmeric We Source
               </h2>
               <p className="text-sm sm:text-base text-on-surface-variant">
-                Seven turmeric varieties from across India, graded by region, curcumin content and colour — so you can pick the right grade for cooking, trade or Ayurvedic use.
+                Seven turmeric varieties from across India, graded by region, curcumin content and colour — so you can pick the right grade for cooking, international trade or wellness use.
               </p>
             </div>
 
@@ -872,12 +872,12 @@ export default function SpicesPage() {
                 <div className="pt-4 mt-2">
                   <a
                     className="inline-flex items-center gap-2 py-2.5 px-6 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                    href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Kasturi%20Turmeric"
+                    href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Aromatic%20Turmeric"
                     rel="noopener"
                     target="_blank"
                   >
                     <span className="material-symbols-outlined text-sm">chat</span>
-                    <span>Bulk Enquiry for Kasturi Haldi</span>
+                    <span>Bulk Enquiry for Aromatic Turmeric</span>
                   </a>
                 </div>
               </div>
@@ -885,12 +885,12 @@ export default function SpicesPage() {
           </div>
         </section>
 
-        {/* Laal Mirch Ki Kisme Section */}
+        {/* Chilli Guide Section */}
         <section className="max-w-7xl mx-auto px-6 sm:px-8 py-16 sm:py-20" id="chilli-guide">
           <div className="text-center max-w-3xl mx-auto mb-14">
             <div className="inline-flex items-center gap-2 text-xs uppercase tracking-widest font-semibold text-secondary mb-2">
               <span className="material-symbols-outlined text-sm">local_fire_department</span>
-              <span>Laal Mirch Ki Kisme</span>
+              <span>Types of Red Chilli</span>
             </div>
             <h2 className="font-headline text-3xl sm:text-4xl lg:text-5xl font-bold text-on-surface mb-4">
               Types of Red Chilli We Source
@@ -1119,7 +1119,7 @@ export default function SpicesPage() {
                 <div className="font-headline text-3xl text-secondary mb-3">ψ</div>
                 <h3 className="font-headline text-lg font-bold text-on-surface mb-2">Sourced at the Root</h3>
                 <p className="text-xs text-on-surface-variant leading-relaxed">
-                  We deal directly with growers and regional mandis — across Guntur, Byadgi and Kashmir — cutting out guesswork in the middle.
+                  We deal directly with growers and regional agricultural hubs — across Guntur, Byadgi and Kashmir — cutting out middlemen and ensuring authentic purity.
                 </p>
               </div>
 

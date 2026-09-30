@@ -43,97 +43,144 @@ export default function DryFruitsPage() {
   const products = [
     {
       id: '01',
-      title: 'Mamra Badam',
+      title: 'Mamra Almonds',
       type: 'almond',
       origin: 'Iran / Kashmir',
       badge: 'Almond • Mamra',
       sub: 'Premium daily raw snacking & morning soak',
-      desc: 'Boasts up to 50% natural oil and Vitamin E for memory, skin health, and daily vitality.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Mamra%20Badam',
+      desc: 'Boasts up to 50% natural unextracted oil and Vitamin E for memory, skin health, and daily vitality.',
+      uses: 'Morning soak on empty stomach for memory and cognitive stamina; nutrition support for pregnant mothers and almond milk tonics.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Mamra%20Almonds',
       image: '/mamra.jpg',
     },
     {
       id: '02',
-      title: 'Gurbandi Badam',
+      title: 'Gurbandi Almonds',
       type: 'almond',
       origin: 'Afghanistan',
       badge: 'Almond • Gurbandi',
-      sub: 'Chhoti Giri · Herbal remedies & baking',
+      sub: 'Small Kernel Almonds · Herbal remedies & baking',
       desc: 'Rich in natural Omega-3s and antioxidants with a bittersweet profile for heart health and stamina.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Gurbandi%20Badam',
+      uses: 'Almond health pastes, traditional wellness remedies, high-energy nutrition, cardiovascular protection and diabetic health diets.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Gurbandi%20Almonds',
       image: '/gurbandi.jpg',
     },
     {
       id: '03',
-      title: 'Kashmiri Badam',
+      title: 'Kashmiri Almonds',
       type: 'almond',
       origin: 'Kashmir Valley',
       originClass: 'text-tertiary bg-tertiary/10',
       badge: 'Almond • Kashmiri',
-      sub: 'Everyday wellness, desserts & kids diet',
+      sub: 'Everyday wellness, desserts & family diet',
       desc: '100% unbleached sweet almonds rich in protein and fiber for everyday family nutrition.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Kashmiri%20Badam',
+      uses: 'Everyday family snacking, dessert puddings & rice dish garnishing, almond flour baking and festive platters.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Kashmiri%20Almonds',
       image: '/kashmiri badam.jpg',
     },
     {
       id: '04',
-      title: 'Hari Long Kishmish',
+      title: 'Green Long Raisins',
       type: 'raisin',
       origin: 'Afghan Grade',
       originClass: 'text-tertiary bg-tertiary/10',
-      badge: 'Raisin • Hari Long',
+      badge: 'Raisin • Green Long',
       badgeColor: 'text-tertiary',
-      sub: 'Healthy midday snacking & trail mixes',
+      sub: 'Midday energy snacking & trail mixes',
       desc: 'Naturally sweet, slender Afghan raisins rich in potassium and fiber for digestion and stamina.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Hari%20Long%20Kishmish',
+      uses: 'Midday energy snacking, school trail mixes, gourmet dry fruit platters and athlete stamina snacks.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Green%20Long%20Raisins',
       image: '/hari.jpg',
     },
     {
       id: '05',
-      title: 'Kali Kishmish',
+      title: 'Black Seedless Raisins',
       type: 'raisin',
       origin: 'Sangli / Nashik',
       originClass: 'text-secondary bg-secondary/10',
-      badge: 'Raisin • Kali Kishmish',
+      badge: 'Raisin • Black Seedless',
       badgeColor: 'text-secondary',
       sub: 'Soaked morning tonics & skin wellness',
       desc: 'Iron-rich seedless black raisins that support hemoglobin, blood purification, and skin wellness.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Kali%20Kishmish',
+      uses: 'Overnight water-soak for iron and hemoglobin boost, blood purification, natural skin glow and hair health.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Black%20Seedless%20Raisins',
       image: '/kali kishmish.jpg',
     },
     {
       id: '06',
-      title: 'Golden Kishmish',
+      title: 'Golden Round Raisins',
       type: 'raisin',
       origin: 'Maharashtra',
       badge: 'Raisin • Golden Round',
       badgeColor: 'text-primary-container',
-      sub: 'Traditional sweets, kheer & bakery',
+      sub: 'Traditional desserts, puddings & bakery',
       desc: 'Sun-cured plump golden raisins ideal for traditional sweets, baking, and healthy daily snacking.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Golden%20Kishmish',
+      uses: 'Traditional desserts, puddings, festive sweets, rice pilafs, Christmas fruitcakes, bakery muffins and confectionery.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Golden%20Round%20Raisins',
       image: '/golden kishmish.jpg',
     },
     {
       id: '07',
-      title: 'Munakka',
+      title: 'Jumbo Seeded Raisins (Munakka)',
       type: 'raisin',
-      origin: 'Ayurvedic Grade',
-      badge: 'Raisin • Munakka',
+      origin: 'Therapeutic Grade',
+      badge: 'Raisin • Jumbo Seeded',
       badgeColor: 'text-secondary',
-      sub: 'Seeded large raisins · Boiled milk tonics',
-      desc: 'Ayurvedic seeded large raisins with soothing cooling properties for digestion and vitality.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Munakka',
+      sub: 'Seeded large raisins · Warm milk tonics',
+      desc: 'Sun-dried seeded large grape raisins with soothing cooling properties for digestion and vitality.',
+      uses: 'Boiled in warm milk with crushed black pepper for chronic cough, throat soothing, acidity relief and digestive wellness.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Jumbo%20Seeded%20Raisins',
       image: '/munaka.jpg',
     },
     {
       id: '08',
+      title: 'Sultanas',
+      type: 'raisin',
+      origin: 'Mediterranean / Export Grade',
+      badge: 'Raisin • Sultana Gold',
+      badgeColor: 'text-primary-container',
+      sub: 'Seedless golden-amber · Bakery & gourmet snacks',
+      desc: 'Juicy, naturally sweet seedless sultanas with tender skin, ideal for confectionery, baking, and gourmet cooking.',
+      uses: 'Artisanal breads, fruit scones, puddings, sweet and savory recipes, fruit chutneys, and breakfast cereals.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Sultanas',
+      image: '/sultanas.jpg',
+    },
+    {
+      id: '09',
+      title: 'Black Currants',
+      type: 'raisin',
+      origin: 'Export Select',
+      badge: 'Raisin • Zante Currant',
+      badgeColor: 'text-secondary',
+      sub: 'Intense tangy-sweet · Artisanal bakery & tonics',
+      desc: 'Tiny, deeply flavorful dried black currants offering rich antioxidants and an intense sweet-tart flavor profile.',
+      uses: 'Artisan sourdough baking, fruit buns, dark chocolate bark, antioxidant smoothie bowls and gourmet dressings.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Black%20Currants',
+      image: '/currants.jpg',
+    },
+    {
+      id: '10',
+      title: 'Red Raisins',
+      type: 'raisin',
+      origin: 'Flame Seedless',
+      badge: 'Raisin • Flame Red',
+      badgeColor: 'text-secondary',
+      sub: 'Plump crimson raisins · Energy mixes & salads',
+      desc: 'Sun-cured large red flame raisins with rich natural sweetness, iron, and a distinct chewy texture.',
+      uses: 'Morning muesli, yogurt parfaits, Mediterranean grain salads, energy trail bars and charcuterie platters.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Red%20Raisins',
+      image: '/red raisins.jpg',
+    },
+    {
+      id: '11',
       title: 'Kashmiri Walnut Kernels',
       type: 'walnut',
       origin: 'Kashmir Valley',
       badge: 'Walnut • Extra Light 1/2',
-      sub: 'Akhrot Giri · Brain health & luxury gifting',
+      sub: 'Walnut Halves · Brain health & luxury gifting',
       desc: 'Extra light, crisp halves packed with brain-boosting ALA Omega-3s and antioxidants.',
-      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Meva,%20I%20am%20interested%20in%20Kashmiri%20Walnut%20Kernels',
+      uses: 'Daily brain vitality (Plant Omega-3 ALA), cardiovascular wellness, keto snacking, gourmet salads and luxury export gifting.',
+      whatsapp: 'https://wa.me/918860723545?text=Hello%20Girja%20Dry%20Fruits,%20I%20am%20interested%20in%20Kashmiri%20Walnut%20Kernels',
       image: '/walnut.jpg',
     },
   ];
@@ -205,13 +252,13 @@ export default function DryFruitsPage() {
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-surface-container border border-outline-soft mb-6">
             <span className="material-symbols-outlined text-xs text-primary">psychiatry</span>
             <span className="w-1.5 h-1.5 rounded-full bg-primary-container"></span>
-            <span className="text-xs uppercase tracking-widest font-semibold text-primary">✦ Pure &amp; Trusted • Meva Aur Masale</span>
+            <span className="text-xs uppercase tracking-widest font-semibold text-primary">✦ Pure &amp; Trusted • Dry Fruits &amp; Spices</span>
           </div>
           <h1 className="font-headline text-4xl sm:text-5xl lg:text-6xl font-bold text-on-surface tracking-tight leading-tight sm:leading-none mb-6">
             Dry Fruits, <span className="italic font-normal text-secondary">Finest Origins</span><br className="hidden sm:inline" /> &amp; Royal Harvest
           </h1>
           <p className="text-base sm:text-lg text-on-surface-variant max-w-3xl mx-auto leading-relaxed mb-8 font-normal">
-            Girja Dry Fruits brings nutrient-rich Mamra almonds, sun-cured Afghan kishmish, and Kashmiri walnut kernels from across the finest orchards — graded by hand, sold on trust, delivered fresh to your kitchen or business.
+            Girja Dry Fruits brings nutrient-rich Mamra almonds, sun-cured Afghan green raisins, and Kashmiri walnut kernels from across the finest orchards — graded by hand, sold on trust, delivered fresh to your kitchen or business.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 mb-10">
@@ -221,7 +268,7 @@ export default function DryFruitsPage() {
             </a>
             <a
               className="inline-flex items-center gap-2 bg-white hover:bg-surface-container border border-outline-soft text-on-surface text-sm font-semibold px-6 py-3 rounded-full shadow-xs transition-all"
-              href="https://wa.me/918860723545?text=Namaste%2C%20I%20am%20interested%20in%20Girja%20Meva%20(Dry%20Fruits)%20catalog"
+              href="https://wa.me/918860723545?text=Hello%2C%20I%20am%20interested%20in%20Girja%20Dry%20Fruits%20catalog"
               rel="noopener"
               target="_blank"
             >
@@ -278,7 +325,7 @@ export default function DryFruitsPage() {
                 Rooted in Tradition,<br />Trusted for Every Kernel
               </h2>
               <p className="text-on-surface-variant text-base sm:text-lg leading-relaxed">
-                Girja Dry Fruits and Spices is built on an uncompromising commitment — naturally nutrient-dense almonds, raisins, and walnuts the way nature intended: whole, well-graded and honestly sourced. From oil-rich Iranian and Kashmiri Mamra badam to sweet Afghan green raisins and crisp walnut halves, every harvest is inspected for moisture, crunch and aroma before it reaches you.
+                Girja Dry Fruits and Spices is built on an uncompromising commitment — naturally nutrient-dense almonds, raisins, and walnuts the way nature intended: whole, well-graded and honestly sourced. From oil-rich Iranian and Kashmiri Mamra almonds to sweet Afghan green raisins and crisp walnut halves, every harvest is inspected for moisture, crunch and aroma before it reaches you.
               </p>
               <p className="text-on-surface-variant text-sm sm:text-base leading-relaxed">
                 Whether you are a family seeking genuine nutrition or a confectioner ordering in bulk cartons, we supply retail pouches and commercial wholesale batches with identical care — sourced directly and delivered across India.
@@ -287,7 +334,7 @@ export default function DryFruitsPage() {
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-4">
                 <div className="p-3.5 rounded-xl bg-white border border-outline-soft shadow-xs text-center">
                   <span className="material-symbols-outlined text-primary text-2xl block mb-1">park</span>
-                  <span className="text-xs font-semibold text-on-surface block">Orchard &amp; Mandi Sourced</span>
+                  <span className="text-xs font-semibold text-on-surface block">Orchard &amp; Direct Sourced</span>
                 </div>
                 <div className="p-3.5 rounded-xl bg-white border border-outline-soft shadow-xs text-center">
                   <span className="material-symbols-outlined text-secondary text-2xl block mb-1">front_hand</span>
@@ -308,7 +355,7 @@ export default function DryFruitsPage() {
               <div className="relative bg-surface-container rounded-3xl p-8 border border-outline-soft/80 overflow-hidden shadow-sm">
                 <div className="w-full rounded-2xl overflow-hidden mb-6 border border-outline-soft/60">
                   <img
-                    alt="Premium Mamra Badam in Artisan Terracotta Bowl"
+                    alt="Premium Mamra Almonds in Artisan Terracotta Bowl"
                     className="w-full h-56 object-cover"
                     src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLK4t_JW4vb8EX5TbbJyw0kF3YCRFcUd9QWDKGiLDcoiY5dYGSXt1NpuEU7v56zwIh7E4WLXTCrxwc5aX22vyC7aej90RjU_J9Hr6C4i9gvA05yDVeFmtGaKtJz8K0K3JOghDwXE7kxeVaF6jewBVYR62Bx0u2-z67OO4k4dFHqdzZ-R7Kxyh3SE9pi3S2D40DDhKzOPkG-dyNdvaEOZ9XV-LarsrA-W-QJZuRJ4GtGPVoIAZ12KNa_w"
                   />
@@ -325,11 +372,11 @@ export default function DryFruitsPage() {
           </div>
         </section>
 
-        {/* Why Girja Meva Section */}
+        {/* Why Girja Dry Fruits Section */}
         {/* <section className="bg-surface-container-low/70 py-16 sm:py-20 border-y border-outline-soft/60">
           <div className="max-w-7xl mx-auto px-6 sm:px-8">
             <div className="text-center max-w-2xl mx-auto mb-14">
-              <span className="text-xs uppercase tracking-widest font-semibold text-primary block mb-2">Why Girja Meva</span>
+              <span className="text-xs uppercase tracking-widest font-semibold text-primary block mb-2">Why Girja Dry Fruits</span>
               <h2 className="font-headline text-3xl sm:text-4xl font-bold text-on-surface mb-4">
                 Quality You Can Taste, Trust You Can Count On
               </h2>
@@ -355,7 +402,7 @@ export default function DryFruitsPage() {
                 </div>
                 <h3 className="font-headline text-xl font-bold text-on-surface mb-2">Region-Wise Sourcing</h3>
                 <p className="text-xs text-on-surface-variant leading-relaxed">
-                  Almonds and dry fruits sourced directly from Kashmir, Chaman, California, Sangli, and trusted origin mandis.
+                  Almonds and dry fruits sourced directly from Kashmir, Chaman, California, Sangli, and certified growing origins.
                 </p>
               </div>
 
@@ -399,9 +446,9 @@ export default function DryFruitsPage() {
             <div className="inline-flex p-1.5 rounded-full bg-surface-container border border-outline-soft shadow-xs" id="filter-container">
               {[
                 { label: 'All Dry Fruits', value: 'all' },
-                { label: 'Almonds (Badam)', value: 'almond' },
-                { label: 'Raisins (Kishmish)', value: 'raisin' },
-                { label: 'Walnuts (Akhrot)', value: 'walnut' },
+                { label: 'Almonds', value: 'almond' },
+                { label: 'Raisins', value: 'raisin' },
+                { label: 'Walnuts', value: 'walnut' },
               ].map((tab) => (
                 <button
                   key={tab.value}
@@ -461,19 +508,26 @@ export default function DryFruitsPage() {
                     </div>
                   )}
 
-                  <div className="p-6">
-                    <div className="flex items-center justify-between mb-1">
-                      <h3 className="font-headline text-xl font-bold text-on-surface group-hover:text-primary transition-colors">
-                        {product.title}
-                      </h3>
-                      <span className={`text-xs font-semibold px-2 py-0.5 rounded ${product.originClass || 'text-primary bg-primary/10'}`}>
-                        {product.origin}
-                      </span>
+                    <div className="p-6">
+                      <div className="flex items-center justify-between mb-1">
+                        <h3 className="font-headline text-xl font-bold text-on-surface group-hover:text-primary transition-colors">
+                          {product.title}
+                        </h3>
+                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${product.originClass || 'text-primary bg-primary/10'}`}>
+                          {product.origin}
+                        </span>
+                      </div>
+                      <span className="text-xs font-medium text-primary-container block mb-2">{product.sub}</span>
+                      <p className="text-xs text-on-surface-variant leading-relaxed">{product.desc}</p>
+                      
+                      {product.uses && (
+                        <div className="mt-3 pt-3 border-t border-outline-soft/60 flex items-start gap-1.5 text-[11px] text-stone-600">
+                          <span className="material-symbols-outlined text-[15px] text-primary shrink-0 mt-0.5">restaurant</span>
+                          <span><strong className="text-on-surface font-semibold">Best For:</strong> {product.uses}</span>
+                        </div>
+                      )}
                     </div>
-                    <span className="text-xs font-medium text-primary-container block mb-2">{product.sub}</span>
-                    <p className="text-xs text-on-surface-variant leading-relaxed">{product.desc}</p>
                   </div>
-                </div>
 
                 <div className="px-6 pb-6 pt-0 flex gap-2">
                   <a
@@ -504,13 +558,13 @@ export default function DryFruitsPage() {
                 <span className="text-[11px] uppercase tracking-widest font-bold text-secondary block mb-1">Tailored Consignments</span>
                 <h3 className="font-headline text-2xl sm:text-3xl font-bold text-on-surface mb-2">Didn't find your grade or dry fruit variety?</h3>
                 <p className="text-xs sm:text-sm text-on-surface-variant leading-relaxed mb-4">
-                  We also source Cashews (W180, W240, W320), Iranian Pistachios, Afghan Figs (Anjeer), and Pine Nuts (Chilgoza) as per your requirement — retail or bulk.
+                  We also source Whole Cashews (W180, W240, W320), Iranian Pistachios, Sun-Dried Figs, and Himalayan Pine Nuts as per your requirement — retail or bulk.
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Cashews W180 &amp; W240</span>
                   <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Iranian Pistachios</span>
-                  <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Afghan Figs (Anjeer)</span>
-                  <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Pine Nuts (Chilgoza)</span>
+                  <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Sun-Dried Figs</span>
+                  <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Himalayan Pine Nuts</span>
                   <span className="text-xs font-medium bg-white px-3 py-1 rounded-full border border-outline-soft text-on-surface-variant">Roasted &amp; Salted Mixes</span>
                 </div>
               </div>
@@ -527,19 +581,19 @@ export default function DryFruitsPage() {
           </div>
         </section>
 
-        {/* Badam Ki Kisme Section */}
-        <section className="bg-surface-container-low/60 py-16 sm:py-20 border-t border-outline-soft/60" id="badam-guide">
+        {/* Almond Guide Section */}
+        <section className="bg-surface-container-low/60 py-16 sm:py-20 border-t border-outline-soft/60" id="almond-guide">
           <div className="max-w-7xl mx-auto px-6 sm:px-8">
             <div className="text-center max-w-3xl mx-auto mb-14">
               <div className="inline-flex items-center gap-2 text-xs uppercase tracking-widest font-semibold text-primary mb-2">
                 <span className="material-symbols-outlined text-sm">spa</span>
-                <span>Badam Ki Kisme</span>
+                <span>Types of Almonds</span>
               </div>
               <h2 className="font-headline text-3xl sm:text-4xl lg:text-5xl font-bold text-on-surface mb-4">
                 Types of Almonds We Source
               </h2>
               <p className="text-sm sm:text-base text-on-surface-variant">
-                Three distinct almond varieties graded by oil content, origin, and therapeutic value — so you can choose the ideal kernel for daily soaking, Ayurvedic tonics, or royal cuisine.
+                Three distinct almond varieties graded by natural oil content, origin, and nutritional value — so you can choose the ideal kernel for daily soaking, health tonics, or royal cuisine.
               </p>
             </div>
 
@@ -548,7 +602,7 @@ export default function DryFruitsPage() {
               <div className="bg-white rounded-2xl p-6 border border-outline-soft shadow-[0_4px_16px_-4px_rgba(28,28,23,0.05)] card-interactive flex flex-col justify-between">
                 <div>
                   <div className="flex items-center justify-between mb-3">
-                    <span className="text-[11px] font-bold uppercase tracking-wider text-tertiary bg-tertiary/10 px-2.5 py-0.5 rounded-md">King of Badam</span>
+                    <span className="text-[11px] font-bold uppercase tracking-wider text-tertiary bg-tertiary/10 px-2.5 py-0.5 rounded-md">King of Almonds</span>
                     <span className="text-xs font-bold text-primary px-2.5 py-0.5 rounded-md bg-primary-container/15">45–50% Oil</span>
                   </div>
                   <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Mamra Almonds</h3>
@@ -568,12 +622,12 @@ export default function DryFruitsPage() {
                     </li>
                   </ul>
                   <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                    India's most coveted almond — supreme for memory enhancement, children's morning soak, and pregnant mothers.
+                    The world's most coveted almond — supreme for cognitive enhancement, children's morning soak, and pregnant mothers.
                   </p>
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Mamra%20Badam"
+                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Mamra%20Almonds"
                   rel="noopener"
                   target="_blank"
                 >
@@ -594,7 +648,7 @@ export default function DryFruitsPage() {
                   <ul className="text-xs text-on-surface-variant space-y-2 mb-4">
                     <li className="flex items-start gap-2">
                       <span className="material-symbols-outlined text-xs text-primary mt-0.5">check_circle</span>
-                      <span>Small, pointed kernels known locally as 'Chhoti Giri'</span>
+                      <span>Small, pointed kernels known for high concentrated oil</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="material-symbols-outlined text-xs text-primary mt-0.5">check_circle</span>
@@ -602,16 +656,16 @@ export default function DryFruitsPage() {
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="material-symbols-outlined text-xs text-primary mt-0.5">check_circle</span>
-                      <span>Slight natural bitterness indicative of potent antioxidants</span>
+                      <span>Slight natural bittersweet note indicative of potent antioxidants</span>
                     </li>
                   </ul>
                   <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                    Preferred by Ayurvedic practitioners for almond milk paste, badam pak, and cardio-protective wellness tonics.
+                    Preferred for natural almond milk paste, wellness tonics, and cardio-protective health formulations.
                   </p>
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Gurbandi%20Badam"
+                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Gurbandi%20Almonds"
                   rel="noopener"
                   target="_blank"
                 >
@@ -644,12 +698,12 @@ export default function DryFruitsPage() {
                     </li>
                   </ul>
                   <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                    The staple of Kashmiri hospitality — excellent for kheer garnishing, breakfast muesli, and everyday snacking.
+                    The staple of regional hospitality — excellent for dessert garnishing, breakfast muesli, and everyday snacking.
                   </p>
                 </div>
                 <a
                   className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-surface-container hover:bg-surface-container-high text-primary font-semibold text-xs transition-colors border border-outline-soft"
-                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Kashmiri%20Badam"
+                  href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Kashmiri%20Almonds"
                   rel="noopener"
                   target="_blank"
                 >
@@ -661,18 +715,18 @@ export default function DryFruitsPage() {
           </div>
         </section>
 
-        {/* Kishmish Ki Kisme Section */}
-        <section className="max-w-7xl mx-auto px-6 sm:px-8 py-16 sm:py-20" id="kishmish-guide">
+        {/* Raisin Guide Section */}
+        <section className="max-w-7xl mx-auto px-6 sm:px-8 py-16 sm:py-20" id="raisin-guide">
           <div className="text-center max-w-3xl mx-auto mb-14">
             <div className="inline-flex items-center gap-2 text-xs uppercase tracking-widest font-semibold text-secondary mb-2">
               <span className="material-symbols-outlined text-sm">eco</span>
-              <span>Kishmish Ki Kisme</span>
+              <span>Types of Raisins</span>
             </div>
             <h2 className="font-headline text-3xl sm:text-4xl lg:text-5xl font-bold text-on-surface mb-4">
               Types of Raisins We Source
             </h2>
             <p className="text-sm sm:text-base text-on-surface-variant">
-              Four distinct raisin grades from slender green Afghan kishmish to therapeutic seeded Munakka, graded by curing technique, size, and medicinal attributes.
+              Distinct raisin grades from slender green Afghan raisins to therapeutic seeded Jumbo Munakka raisins, graded by curing technique, size, and nutritional attributes.
             </p>
           </div>
 
@@ -684,7 +738,7 @@ export default function DryFruitsPage() {
                   <span className="text-[11px] font-bold uppercase tracking-wider text-tertiary bg-tertiary/10 px-2.5 py-0.5 rounded-md">Afghan Grade</span>
                   <span className="text-xs font-bold text-primary px-2.5 py-0.5 rounded-md bg-primary/10">Sweet &amp; Tangy</span>
                 </div>
-                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Hari Long Kishmish</h3>
+                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Green Long Raisins</h3>
                 <span className="text-xs font-medium text-stone-500 block mb-4">Chaman / Kandahar</span>
                 <ul className="text-xs text-on-surface-variant space-y-2 mb-4">
                   <li className="flex items-start gap-2">
@@ -693,7 +747,7 @@ export default function DryFruitsPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-primary mt-0.5">check_circle</span>
-                    <span>Naturally dried in shaded adobe kishmish khanas</span>
+                    <span>Naturally dried in shaded adobe drying houses</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-primary mt-0.5">check_circle</span>
@@ -701,12 +755,12 @@ export default function DryFruitsPage() {
                   </li>
                 </ul>
                 <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                  The undisputed favorite for children's snack boxes and luxury dessert presentations.
+                  The undisputed favorite for energy snack boxes and luxury dessert presentations.
                 </p>
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Hari%20Long%20Kishmish"
+                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Green%20Long%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
@@ -722,12 +776,12 @@ export default function DryFruitsPage() {
                   <span className="text-[11px] font-bold uppercase tracking-wider text-secondary bg-secondary/10 px-2.5 py-0.5 rounded-md">Iron Powerhouse</span>
                   <span className="text-xs font-bold text-secondary px-2.5 py-0.5 rounded-md bg-secondary/10">High Anthocyanin</span>
                 </div>
-                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Kali Kishmish</h3>
+                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Black Seedless Raisins</h3>
                 <span className="text-xs font-medium text-stone-500 block mb-4">Sangli &amp; Solapur, Maharashtra</span>
                 <ul className="text-xs text-on-surface-variant space-y-2 mb-4">
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-secondary mt-0.5">check_circle</span>
-                    <span>Naturally dark purple-black sun-cured Thompson grapes</span>
+                    <span>Naturally dark purple-black sun-cured seedless grapes</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-secondary mt-0.5">check_circle</span>
@@ -735,16 +789,16 @@ export default function DryFruitsPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-secondary mt-0.5">check_circle</span>
-                    <span>Potent remedy for hemoglobin &amp; scalp blood circulation</span>
+                    <span>Potent remedy for hemoglobin &amp; scalp circulation</span>
                   </li>
                 </ul>
                 <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                  Best consumed after overnight soaking in copper vessels for blood purification.
+                  Best consumed after overnight soaking in water for blood purification and iron replenishment.
                 </p>
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Kali%20Kishmish"
+                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Black%20Seedless%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
@@ -760,7 +814,7 @@ export default function DryFruitsPage() {
                   <span className="text-[11px] font-bold uppercase tracking-wider text-primary bg-primary/10 px-2.5 py-0.5 rounded-md">Confectionery Grade</span>
                   <span className="text-xs font-bold text-primary px-2.5 py-0.5 rounded-md bg-primary-container/15">Plump &amp; Sweet</span>
                 </div>
-                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Golden Round Kishmish</h3>
+                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Golden Round Raisins</h3>
                 <span className="text-xs font-medium text-stone-500 block mb-4">Nashik &amp; Tasgaon Belt</span>
                 <ul className="text-xs text-on-surface-variant space-y-2 mb-4">
                   <li className="flex items-start gap-2">
@@ -773,16 +827,16 @@ export default function DryFruitsPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-primary mt-0.5">check_circle</span>
-                    <span>Retains plump texture when cooked in milk or ghee</span>
+                    <span>Retains plump texture when cooked in milk or baked goods</span>
                   </li>
                 </ul>
                 <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                  Essential for Indian halwas, royal pulao, Christmas plum cakes, and bakery formulations.
+                  Essential for gourmet desserts, royal rice pilafs, Christmas fruitcakes, and bakery formulations.
                 </p>
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Golden%20Kishmish"
+                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Golden%20Round%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
@@ -795,11 +849,11 @@ export default function DryFruitsPage() {
             <div className="bg-white rounded-2xl p-6 border border-outline-soft shadow-[0_4px_16px_-4px_rgba(28,28,23,0.05)] flex flex-col justify-between">
               <div>
                 <div className="flex items-center justify-between mb-3">
-                  <span className="text-[11px] font-bold uppercase tracking-wider text-rose-700 bg-rose-50 px-2.5 py-0.5 rounded-md">Ayurvedic Rasayana</span>
+                  <span className="text-[11px] font-bold uppercase tracking-wider text-rose-700 bg-rose-50 px-2.5 py-0.5 rounded-md">Therapeutic Grade</span>
                   <span className="text-xs font-bold text-rose-700 px-2.5 py-0.5 rounded-md bg-rose-100">Jumbo Seeded</span>
                 </div>
-                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Munakka Dakh</h3>
-                <span className="text-xs font-medium text-stone-500 block mb-4">Afghan &amp; Indian Mandis</span>
+                <h3 className="font-headline text-xl font-bold text-on-surface mb-1">Jumbo Seeded Raisins (Munakka)</h3>
+                <span className="text-xs font-medium text-stone-500 block mb-4">Origin Harvest</span>
                 <ul className="text-xs text-on-surface-variant space-y-2 mb-4">
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-rose-700 mt-0.5">check_circle</span>
@@ -807,26 +861,130 @@ export default function DryFruitsPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-rose-700 mt-0.5">check_circle</span>
-                    <span>Gentle, natural laxative and gut restorative properties</span>
+                    <span>Gentle natural restorative properties for digestive balance</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="material-symbols-outlined text-xs text-rose-700 mt-0.5">check_circle</span>
-                    <span>Supports respiratory health and relieves dry cough</span>
+                    <span>Supports respiratory health and relieves dry throat</span>
                   </li>
                 </ul>
                 <p className="text-xs text-stone-600 bg-surface-container p-3 rounded-xl mb-4 italic">
-                  Boiled in warm milk with black pepper for nocturnal strength and cough relief.
+                  Boiled in warm milk with black pepper for soothing nocturnal strength and throat relief.
                 </p>
               </div>
               <a
                 className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-secondary hover:bg-secondary-dark text-white font-semibold text-xs transition-colors shadow-xs"
-                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Munakka"
+                href="https://wa.me/918860723545?text=Bulk%20Enquiry%20for%20Jumbo%20Seeded%20Raisins"
                 rel="noopener"
                 target="_blank"
               >
                 <span className="material-symbols-outlined text-sm">chat</span>
                 <span>Bulk Enquiry</span>
               </a>
+            </div>
+          </div>
+        </section>
+
+        {/* Comprehensive Dry Fruits Uses & Applications Matrix */}
+        <section className="bg-surface-container-low/80 py-16 sm:py-20 border-t border-outline-soft/80" id="dry-fruits-uses">
+          <div className="max-w-7xl mx-auto px-6 sm:px-8">
+            <div className="text-center max-w-3xl mx-auto mb-14">
+              <div className="inline-flex items-center gap-2 text-xs uppercase tracking-widest font-semibold text-primary mb-2">
+                <span className="material-symbols-outlined text-sm">nutrition</span>
+                <span>Culinary &amp; Health Applications</span>
+              </div>
+              <h2 className="font-headline text-3xl sm:text-4xl lg:text-5xl font-bold text-on-surface mb-4">
+                How to Use Different Dry Fruits for Maximum Benefits
+              </h2>
+              <p className="text-sm sm:text-base text-on-surface-variant">
+                Whether you are designing a daily wellness routine, formulating traditional health remedies, or crafting gourmet bakery products, explore the best ways to consume each dry fruit.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+              {/* Use Pillar 1 */}
+              <div className="bg-white rounded-2xl p-6 border border-outline-soft shadow-[0_4px_16px_-4px_rgba(28,28,23,0.05)] card-interactive flex flex-col justify-between">
+                <div>
+                  <div className="w-12 h-12 rounded-xl bg-primary/10 text-primary flex items-center justify-center mb-4">
+                    <span className="material-symbols-outlined text-2xl">psychology</span>
+                  </div>
+                  <h3 className="font-headline text-lg font-bold text-on-surface mb-1">Morning Soak &amp; Brain Health</h3>
+                  <span className="text-[11px] font-semibold text-primary uppercase tracking-wider block mb-3">Mamra Almonds • Gurbandi • Walnuts</span>
+                  <p className="text-xs text-on-surface-variant leading-relaxed mb-3">
+                    Soak 5–7 kernels overnight in fresh water. Peeling activation unlocks high natural oil, plant Omega-3 ALA, and Vitamin E to boost memory, cognitive clarity, and morning stamina.
+                  </p>
+                  <div className="bg-surface-container p-3 rounded-xl text-[11px] text-stone-600 space-y-1">
+                    <p><strong>Ideal For:</strong> Students, pregnant mothers, memory tonics &amp; keto breakfast.</p>
+                  </div>
+                </div>
+                <div className="mt-4 pt-3 border-t border-outline-soft/60 flex items-center justify-between text-xs font-semibold text-primary">
+                  <span>Daily Health Regime</span>
+                  <span className="material-symbols-outlined text-sm">alarm</span>
+                </div>
+              </div>
+
+              {/* Use Pillar 2 */}
+              <div className="bg-white rounded-2xl p-6 border border-outline-soft shadow-[0_4px_16px_-4px_rgba(28,28,23,0.05)] card-interactive flex flex-col justify-between">
+                <div>
+                  <div className="w-12 h-12 rounded-xl bg-secondary/10 text-secondary flex items-center justify-center mb-4">
+                    <span className="material-symbols-outlined text-2xl">health_and_safety</span>
+                  </div>
+                  <h3 className="font-headline text-lg font-bold text-on-surface mb-1">Traditional Wellness &amp; Healing</h3>
+                  <span className="text-[11px] font-semibold text-secondary uppercase tracking-wider block mb-3">Jumbo Seeded Raisins • Black Raisins</span>
+                  <p className="text-xs text-on-surface-variant leading-relaxed mb-3">
+                    Boil 6–8 Jumbo Seeded Raisins in milk with black pepper for nocturnal dry cough relief. Soak Black Seedless Raisins in water to naturally support hemoglobin, liver detox, and glowing skin.
+                  </p>
+                  <div className="bg-surface-container p-3 rounded-xl text-[11px] text-stone-600 space-y-1">
+                    <p><strong>Ideal For:</strong> Acidity relief, blood purification, respiratory warmth &amp; gut balance.</p>
+                  </div>
+                </div>
+                <div className="mt-4 pt-3 border-t border-outline-soft/60 flex items-center justify-between text-xs font-semibold text-secondary">
+                  <span>Therapeutic Wellness</span>
+                  <span className="material-symbols-outlined text-sm">local_pharmacy</span>
+                </div>
+              </div>
+
+              {/* Use Pillar 3 */}
+              <div className="bg-white rounded-2xl p-6 border border-outline-soft shadow-[0_4px_16px_-4px_rgba(28,28,23,0.05)] card-interactive flex flex-col justify-between">
+                <div>
+                  <div className="w-12 h-12 rounded-xl bg-primary-container/15 text-primary-container flex items-center justify-center mb-4">
+                    <span className="material-symbols-outlined text-2xl">bakery_dining</span>
+                  </div>
+                  <h3 className="font-headline text-lg font-bold text-on-surface mb-1">Bakery, Confectionery &amp; Desserts</h3>
+                  <span className="text-[11px] font-semibold text-primary-container uppercase tracking-wider block mb-3">Golden Raisins • Sultanas • Currants</span>
+                  <p className="text-xs text-on-surface-variant leading-relaxed mb-3">
+                    Plump golden raisins and tangy currants retain moisture in festive puddings, Christmas plum cakes, artisan sourdoughs, cookies, and gourmet confectionery glazes.
+                  </p>
+                  <div className="bg-surface-container p-3 rounded-xl text-[11px] text-stone-600 space-y-1">
+                    <p><strong>Ideal For:</strong> Dessert puddings, sweet pilafs, fruitcakes, scones &amp; chocolate bars.</p>
+                  </div>
+                </div>
+                <div className="mt-4 pt-3 border-t border-outline-soft/60 flex items-center justify-between text-xs font-semibold text-primary-container">
+                  <span>Gourmet Cuisine</span>
+                  <span className="material-symbols-outlined text-sm">cake</span>
+                </div>
+              </div>
+
+              {/* Use Pillar 4 */}
+              <div className="bg-white rounded-2xl p-6 border border-outline-soft shadow-[0_4px_16px_-4px_rgba(28,28,23,0.05)] card-interactive flex flex-col justify-between">
+                <div>
+                  <div className="w-12 h-12 rounded-xl bg-tertiary/10 text-tertiary flex items-center justify-center mb-4">
+                    <span className="material-symbols-outlined text-2xl">fitness_center</span>
+                  </div>
+                  <h3 className="font-headline text-lg font-bold text-on-surface mb-1">Energy Snacks &amp; Salad Bowls</h3>
+                  <span className="text-[11px] font-semibold text-tertiary uppercase tracking-wider block mb-3">Green Long • Red Raisins • Walnuts</span>
+                  <p className="text-xs text-on-surface-variant leading-relaxed mb-3">
+                    A raw power-mix of crunchy Kashmiri walnuts, slender green Afghan raisins, and plump red flame raisins provides clean natural sugars, iron, and sustained stamina for workouts and busy workdays.
+                  </p>
+                  <div className="bg-surface-container p-3 rounded-xl text-[11px] text-stone-600 space-y-1">
+                    <p><strong>Ideal For:</strong> Trail mixes, yogurt parfaits, athlete energy bowls &amp; gifting trays.</p>
+                  </div>
+                </div>
+                <div className="mt-4 pt-3 border-t border-outline-soft/60 flex items-center justify-between text-xs font-semibold text-tertiary">
+                  <span>Instant Sustained Energy</span>
+                  <span className="material-symbols-outlined text-sm">bolt</span>
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -857,7 +1015,7 @@ export default function DryFruitsPage() {
                 <div className="font-headline text-3xl text-secondary mb-3">ψ</div>
                 <h3 className="font-headline text-lg font-bold text-on-surface mb-2">Sourced at the Root</h3>
                 <p className="text-xs text-on-surface-variant leading-relaxed">
-                  We deal directly with growers and regional mandis — across Guntur, Byadgi and Kashmir — cutting out guesswork in the middle.
+                  We deal directly with growers and regional agricultural origins — across Guntur, Byadgi and Kashmir — cutting out middlemen and ensuring single-origin purity.
                 </p>
               </div>
 

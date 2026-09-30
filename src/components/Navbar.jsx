@@ -39,8 +39,8 @@ export default function Navbar({ onRequestQuote }) {
     );
   } else if (pathname === '/dry-fruits') {
     navLinks.push(
-      { name: 'Badam Guide', href: '/dry-fruits#badam-guide' },
-      { name: 'Kishmish Guide', href: '/dry-fruits#kishmish-guide' }
+      { name: 'Almond Guide', href: '/dry-fruits#almond-guide' },
+      { name: 'Raisin Guide', href: '/dry-fruits#raisin-guide' }
     );
   }
 
@@ -64,11 +64,11 @@ export default function Navbar({ onRequestQuote }) {
             <img
               alt="Girja Logo"
               className="w-10 h-10 object-contain rounded-full border border-outline-soft shadow-xs group-hover:scale-105 transition-transform"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBofNy3z-Fm49x1lDoQWq3tE217KWD33X-pwDVlEOfLZy0hTCdexuLYdWj2Nkcju7Y9NyzyHYjBr-jydoHtSry9et7bqGZHJeMyvunmlgeYbqQqzfJCx7tfiiIES2EnuM3dkLBMi-BVKajiJvNXibey6t4UggIceJsEu9SXtSjAmMPbYYjSMP4GZBO1LhOnhCNOPCgbWIWVHN3uj98K_748M2R1UTSkweLHDl0plNAty5z7dSYfQaZJv043w-hRHesISJ0"
+              src="/logo.png"
             />
             <div className="flex flex-col">
               <span className="font-headline text-xl font-bold tracking-tight text-primary leading-tight">Girja</span>
-              <span className="text-[11px] tracking-[0.16em] uppercase text-on-surface-variant/80 font-medium">Meva aur Masale</span>
+              <span className="text-[11px] tracking-[0.16em] uppercase text-on-surface-variant/80 font-medium">Dry Fruits &amp; Spices</span>
             </div>
           </Link>
 

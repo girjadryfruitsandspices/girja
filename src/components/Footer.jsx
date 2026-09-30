@@ -14,21 +14,21 @@ export default function Footer() {
               <img
                 alt="Girja Logo"
                 className="w-11 h-11 object-contain rounded-full bg-white p-0.5 shadow-sm"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBofNy3z-Fm49x1lDoQWq3tE217KWD33X-pwDVlEOfLZy0hTCdexuLYdWj2Nkcju7Y9NyzyHYjBr-jydoHtSry9et7bqGZHJeMyvunmlgeYbqQqzfJCx7tfiiIES2EnuM3dkLBMi-BVKajiJvNXibey6t4UggIceJsEu9SXtSjAmMPbYYjSMP4GZBO1LhOnhCNOPCgbWIWVHN3uj98K_748M2R1UTSkweLHDl0plNAty5z7dSYfQaZJv043w-hRHesISJ0"
+                src="/logo.png"
                 loading="lazy"
                 decoding="async"
               />
               <div>
                 <span className="font-headline text-2xl font-bold text-white leading-tight block">Girja</span>
-                <span className="text-[10px] tracking-widest uppercase text-[#9fbaaa] font-medium">MEVA AUR MASALE</span>
+                <span className="text-[10px] tracking-widest uppercase text-[#9fbaaa] font-medium">DRY FRUITS &amp; SPICES</span>
               </div>
             </div>
             <p className="text-xs text-[#b8b3a7] leading-relaxed max-w-sm pt-1">
-              Pure &amp; Trusted • Meva Aur Masale - Spices, Handpicked &amp; Fiery Chillies from Guntur, Byadgi, Kashmir, and Salem.
+              Pure &amp; Trusted • Dry Fruits &amp; Spices - Spices, Handpicked &amp; Fiery Chillies from Guntur, Byadgi, Kashmir, and Salem.
             </p>
             <div className="pt-2 flex items-center gap-2 text-xs text-[#9fbaaa]">
               <span className="material-symbols-outlined text-[#c68b29] text-base">verified</span>
-              <span>100% Quality &amp; Purity Guaranteed • Direct Mandi Origin</span>
+              <span>100% Quality &amp; Purity Guaranteed • Direct Farm &amp; Origin Sourcing</span>
             </div>
           </div>
 
@@ -99,7 +99,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#8f8a7e]">
-          <p>© 2025 Girja Dry Fruits &amp; Spices (Meva Aur Masale). All rights reserved.</p>
+          <p>© 2025 Girja Dry Fruits &amp; Spices. All rights reserved.</p>
           <p className="flex items-center gap-3">
             <span>APEDA Registered</span>
             <span>•</span>
